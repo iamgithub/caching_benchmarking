@@ -1,0 +1,10 @@
+build
+cscope.files
+cscope.out
+*.jar
+*.class
+*.o
+*.swp
+*.swo
+*~
+*.png
